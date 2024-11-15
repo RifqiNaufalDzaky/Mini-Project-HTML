@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jadwal Dokter</title>
+    <link rel="stylesheet" href="jadwal.css">
+    <script type="text/javascript" src="validation.js" defer></script>
+</head>
+
+<body>
+    <header class="header">
+        <a href="#" class="logo">CIPUNG HOSPITAL</a>
+        <nav class="navbar">
+            <a href="beranda.html" style="--i:1" class="active">Beranda</a>
+            <a href="jadwal.html" style="--i:2">Jadwal Dokter</a>
+            <a href="layanan.html" style="--i:3">Layanan</a>
+            <a href="login.html" style="--i:4">Logout</a>
+
+        </nav>
+    </header>
+
+    <div class="container">
+        <h1>JADWAL DOKTER</h1>
+        <label for="filter">Pilih Spesialisasi:</label>
+        <select id="filter" onchange="filterDoctors()">
+            <option value="all">Semua</option>
+            <option value="gigi">Dokter Gigi dan Mulut</option>
+            <option value="umum">Dokter Umum</option>
+            <option value="jantung">Dokter Jantung</option>
+            <option vlue="paru">Dokter Paru</option>
+        </select>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>No</th>
+                    <th>Nama Dokter</th>
+                    <th>Hari</th>
+                    <th>Waktu</th>
+                </tr>
+            </thead>
+            <tbody id="doctor-schedule">
+                <!-- Data jadwal dokter -->
+                <tr class="doctor gigi">
+                    <td>1</td>
+                    <td><img src="/img/dr1.jpg" alt="Dr. Julia Noor Soraya"><br>drg. Julia Noor Soraya</td>
+                    <td>Senin</td>
+                    <td>09.00 - 12.00 WIB</td>
+                </tr>
+                <tr class="doctor gigi">
+                    <td>2</td>
+                    <td><img src="/img/dr3.jpg" alt="Dr. Yenni Dhiana"><br>drg. Yenni Dhiana</td>
+                    <td>Senin, Rabu</td>
+                    <td>09.00 - 12.00 WIB</td>
+                </tr>
+                <tr class="doctor umum">
+                    <td>3</td>
+                    <td><img src="/img/dr2.jpg" alt="Dr. Budi Prasetyo"><br>dr. Budi Prasetyo</td>
+                    <td>Selasa, Jumat</td>
+                    <td>13.00 - 16.00 WIB</td>
+                </tr>
+                <tr class="doctor jantung">
+                    <td>4</td>
+                    <td><img src="/img/dr4.jpg" alt="Dr. Angel Lina"><br>dr. Angel Lina</td>
+                    <td>Selasa, Jumat</td>
+                    <td>13.00 - 16.00 WIB</td>
+                </tr>
+
+            </tbody>
+        </table>
+        <a href="/html css/dashboard.html" class="btn-box">Kembali ke Dashboard</a>
+    </div>
+    <script src="/js/validation.js"></script>
+</body>
+
+</html>

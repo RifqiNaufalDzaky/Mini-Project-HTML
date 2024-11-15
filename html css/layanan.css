@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Poppins, Segoe UI, sans-serif;
+    background-color: #f9f9f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 15px 10%;
+    background: #8672ff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.logo {
+
+    position: relative;
+    font-size: 25px;
+    color: #f3f0ff;
+    text-decoration: none;
+    font-weight: 600;
+    cursor: default;
+    opacity: 0;
+    animation: slideRight 1s ease forwards;
+}
+
+@keyframes slideRight {
+    0% {
+        transform: translateX(-100px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateX(0x);
+        opacity: 1;
+    }
+}
+
+.navbar a {
+    display: inline-block;
+    font: 25px;
+    color: #fff;
+    align-items: center;
+    text-decoration: none;
+    font-weight: 500;
+    margin-inline: 35px;
+    margin-right: 35px;
+    transition: .3s;
+    opacity: 0;
+    animation: slideTop .5 1s ease forwards;
+    animation-delay: calc(.2s * var(--1));
+}
+
+@keyframes slideTop {
+    0% {
+        transform: translateY(-100%);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.slide-top {
+    animation: slideTop 1s ease forwards;
+    color: white;
+    padding: 20px;
+    font-size: 24px;
+    width: fit-content;
+}
+
+.navbar a:hover {
+    color: aqua;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    position: center;
+    text-align: center;
+}
+
+.title {
+    text-align: top, center;
+    font-size: 2rem;
+    font-weight: bold;
+    color: black;
+    margin-top: 50px;
+    margin-bottom: 2rem;
+    width: 100%;
+    display: block;
+}

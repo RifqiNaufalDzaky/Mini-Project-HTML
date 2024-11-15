@@ -1,0 +1,279 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+html {
+    font-family: 'Poppins', 'Segoe UI', sans-serif;
+    font-size: 12pt;
+    color: #8672ff;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/beranda.jpg);
+
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 15px 10%;
+    background-color: #8672ff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.logo {
+
+    position: relative;
+    font-size: 25px;
+    color: #f3f0ff;
+    text-decoration: none;
+    font-weight: 600;
+    cursor: default;
+    opacity: 0;
+    animation: slideRight 1s ease forwards;
+}
+
+@keyframes slideRight {
+    0% {
+        transform: translateX(-100px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateX(0x);
+        opacity: 1;
+    }
+}
+
+.navbar a {
+    display: inline-block;
+    font: 25px;
+    color: #fff;
+    align-items: center;
+    text-decoration: none;
+    font-weight: 500;
+    margin-inline: 35px;
+    margin-right: 35px;
+    transition: .3s;
+    opacity: 0;
+    animation: slideTop .5 1s ease forwards;
+    animation-delay: calc(.2s * var(--1));
+}
+
+@keyframes slideTop {
+    0% {
+        transform: translateY(-100%);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.slide-top {
+    animation: slideTop 1s ease forwards;
+    color: white;
+    padding: 20px;
+    font-size: 24px;
+    width: fit-content;
+}
+
+.navbar a:hover {
+    color: aqua;
+}
+
+.beranda {
+    position: center;
+    /* width: 100%; */
+    justify-content: space-between;
+    /* height: 100vh; */
+    display: flex;
+    align-items: center;
+    background-color: violet;
+    opacity: 0.8;
+    margin: 100px 100px;
+    border-radius: 20px;
+}
+
+.beranda-content {
+    /* margin-top: 15px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* min-height: 80vh; */
+    text-align: center;
+    margin-bottom: 25px;
+
+}
+
+.beranda-content h1 {
+    color: whitesmoke;
+    position: center;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    font-size: 32px;
+    font-weight: 700;
+    opacity: 0;
+    animation: slideBottom 1s ease forwards;
+    animation-delay: .7s;
+}
+
+.beranda-content h3 {
+    color: wheat;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    font-size: 20px;
+    font-weight: 400;
+    opacity: 0;
+    animation: slideBottom 2s ease forwards;
+    animation-delay: .7s;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+
+@keyframes slideBottom {
+    0% {
+        transform: translateY(-100px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+
+/* .box {
+
+    font-size: 1em;
+    padding: 20px 30px;
+    background-color: rgba(187, 131, 212, 0.5);
+    color: #fff;
+    border-radius: 10px;
+    text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.5);
+    max-width: 600px;
+    margin-bottom: 20px;
+    animation: slideTop 1s ease forwards;
+    animation-delay: 1s;
+} */
+
+@keyframes slideLeft {
+    0% {
+        transform: translateX(100px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateX(0x);
+        opacity: 1;
+    }
+}
+
+.btn-box {
+
+    display: inline-block;
+    margin-top: 25px;
+    padding: 12px 28px;
+    background: #8672ff;
+    border-radius: 16px;
+    color: whitesmoke;
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-weight: 600;
+    opacity: 0;
+    animation: slideTop 1s ease forwards;
+    animation-delay: 2s;
+
+}
+
+.content-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 10px;
+}
+
+.card-chart {
+    width: 45%;
+    padding: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    background-color: #fff;
+    margin-left: 20px;
+}
+
+.table-container {
+    width: 45%;
+    padding: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    background-color: #fff;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    min-height: 400px;
+}
+
+#foodTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    min-height: 300px;
+}
+
+.pagination {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.pagination button {
+    padding: 5px 15px;
+    border: none;
+    background-color: #8672ff;
+    color: whitesmoke;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.pagination button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+}
+
+.card-avoid {
+    width: 45%;
+    padding: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    background-color: #fff;
+    margin: 20px 20px;
+    margin-top: 20px;
+    /* Centered under the card-chart */
+}
+
+/* Menggabungkan card-chart dan card-avoid dalam satu container */
+.chart-and-avoid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.card-chart,
+.card-avoid {
+    width: 90%;
+    /* Atur lebar agar konsisten */
+    margin: 10px auto;
+    /* Mengurangi jarak antar elemen */
+    padding: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    background-color: #fff;
+}

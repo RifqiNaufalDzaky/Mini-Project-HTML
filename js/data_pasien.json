@@ -1,0 +1,952 @@
+[
+  {
+    "Nama": "John Smith",
+    "Usia": 33,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "David Wilson",
+    "Usia": 44,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Jane Williams",
+    "Usia": 46,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Alex Rodriguez",
+    "Usia": 58,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Kris Jones",
+    "Usia": 66,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "John Davis",
+    "Usia": 58,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "John Davis",
+    "Usia": 79,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Kris Garcia",
+    "Usia": 39,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Tina Garcia",
+    "Usia": 22,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Mark Jones",
+    "Usia": 66,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "David Rodriguez",
+    "Usia": 19,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Tina Brown",
+    "Usia": 20,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Sarah Wilson",
+    "Usia": 31,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Chris Smith",
+    "Usia": 22,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Sam Jones",
+    "Usia": 22,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Kris Williams",
+    "Usia": 73,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Mark Smith",
+    "Usia": 76,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "David Smith",
+    "Usia": 55,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "John Smith",
+    "Usia": 33,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "John Rodriguez",
+    "Usia": 28,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "John Brown",
+    "Usia": 23,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Sam Miller",
+    "Usia": 44,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Kris Jones",
+    "Usia": 58,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "John Garcia",
+    "Usia": 51,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Sarah Davis",
+    "Usia": 70,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Alex Johnson",
+    "Usia": 50,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Mark Davis",
+    "Usia": 33,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Chris Williams",
+    "Usia": 59,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Tina Johnson",
+    "Usia": 62,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Tina Davis",
+    "Usia": 71,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Jane Rodriguez",
+    "Usia": 65,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Jane Smith",
+    "Usia": 27,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Kris Jones",
+    "Usia": 52,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Jane Brown",
+    "Usia": 28,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Alex Garcia",
+    "Usia": 80,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Jane Miller",
+    "Usia": 53,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "David Davis",
+    "Usia": 20,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "David Rodriguez",
+    "Usia": 53,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "John Smith",
+    "Usia": 55,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Alex Johnson",
+    "Usia": 43,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Sarah Smith",
+    "Usia": 28,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "David Jones",
+    "Usia": 51,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Sam Johnson",
+    "Usia": 34,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Alex Davis",
+    "Usia": 61,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Mark Smith",
+    "Usia": 26,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Mark Wilson",
+    "Usia": 38,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Sam Smith",
+    "Usia": 56,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "David Jones",
+    "Usia": 35,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "David Williams",
+    "Usia": 40,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Tina Jones",
+    "Usia": 49,
+    "Penyakit": "Jantung"
+  },
+  {
+    "Nama": "Sarah Jones",
+    "Usia": 24,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Chris Wilson",
+    "Usia": 34,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Alex Brown",
+    "Usia": 40,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Mark Garcia",
+    "Usia": 29,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Kris Davis",
+    "Usia": 51,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Tina Rodriguez",
+    "Usia": 33,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "David Johnson",
+    "Usia": 22,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Jane Smith",
+    "Usia": 38,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Sam Wilson",
+    "Usia": 43,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Mark Brown",
+    "Usia": 55,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Kris Johnson",
+    "Usia": 60,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "John Garcia",
+    "Usia": 29,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "David Brown",
+    "Usia": 52,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Sarah Miller",
+    "Usia": 48,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Tina Wilson",
+    "Usia": 35,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Alex Davis",
+    "Usia": 42,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "John Brown",
+    "Usia": 37,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Mark Smith",
+    "Usia": 27,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Tina Miller",
+    "Usia": 43,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "David Davis",
+    "Usia": 46,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Sarah Brown",
+    "Usia": 52,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Chris Davis",
+    "Usia": 31,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Mark Davis",
+    "Usia": 35,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "John Rodriguez",
+    "Usia": 56,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Sam Johnson",
+    "Usia": 62,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Sarah Miller",
+    "Usia": 61,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Chris Wilson",
+    "Usia": 52,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Alex Smith",
+    "Usia": 30,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "David Johnson",
+    "Usia": 34,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Chris Garcia",
+    "Usia": 55,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Jane Miller",
+    "Usia": 58,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Sam Davis",
+    "Usia": 42,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "David Brown",
+    "Usia": 48,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "John Davis",
+    "Usia": 60,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Mark Brown",
+    "Usia": 43,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Sarah Garcia",
+    "Usia": 42,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Jane Johnson",
+    "Usia": 53,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Sam Rodriguez",
+    "Usia": 29,
+    "Penyakit": "Usus Buntu"
+  },
+  {
+    "Nama": "Liam Johnson",
+    "Usia": 54,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Emily Brown",
+    "Usia": 62,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Mason Williams",
+    "Usia": 40,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Olivia Miller",
+    "Usia": 49,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "James Moore",
+    "Usia": 70,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Sophia Smith",
+    "Usia": 56,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "William Harris",
+    "Usia": 61,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Benjamin Clark",
+    "Usia": 59,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Charlotte Davis",
+    "Usia": 64,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Amelia Scott",
+    "Usia": 46,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Lucas Rodriguez",
+    "Usia": 66,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Ethan Lewis",
+    "Usia": 41,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Mia Walker",
+    "Usia": 34,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Mason Young",
+    "Usia": 50,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Aria King",
+    "Usia": 55,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Jackson Allen",
+    "Usia": 48,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Lily King",
+    "Usia": 53,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Aiden Nelson",
+    "Usia": 63,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Jack Gonzalez",
+    "Usia": 60,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Ella Carter",
+    "Usia": 44,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Grace Mitchell",
+    "Usia": 45,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Henry Perez",
+    "Usia": 72,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Sebastian Collins",
+    "Usia": 49,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Isaac Evans",
+    "Usia": 66,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Scarlett Edwards",
+    "Usia": 58,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Harper Stewart",
+    "Usia": 51,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Ava Flores",
+    "Usia": 39,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Sebastian Green",
+    "Usia": 67,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Oliver Adams",
+    "Usia": 63,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Chloe Baker",
+    "Usia": 47,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Landon White",
+    "Usia": 42,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "James Taylor",
+    "Usia": 48,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Victoria Carter",
+    "Usia": 60,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Camila Hughes",
+    "Usia": 69,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Henry Johnson",
+    "Usia": 54,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Eleanor Morris",
+    "Usia": 62,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "William Wright",
+    "Usia": 65,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Jaxon Perez",
+    "Usia": 59,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Gabriel Walker",
+    "Usia": 44,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Madeline Murphy",
+    "Usia": 49,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Oliver Hall",
+    "Usia": 64,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Jackie Simmons",
+    "Usia": 55,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Nolan Brooks",
+    "Usia": 60,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Mason Evans",
+    "Usia": 41,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Elliot Scott",
+    "Usia": 58,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Noah Wilson",
+    "Usia": 62,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Zoe Ward",
+    "Usia": 44,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Lucas Anderson",
+    "Usia": 57,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Benjamin Carter",
+    "Usia": 65,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Zachary Griffin",
+    "Usia": 67,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Wyatt White",
+    "Usia": 63,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Charlotte Martinez",
+    "Usia": 53,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Maddox Rogers",
+    "Usia": 57,
+    "Penyakit": "Kanker"
+  },
+  {
+    "Nama": "Maya Adams",
+    "Usia": 42,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Oliver Gonzalez",
+    "Usia": 58,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Ella Walker",
+    "Usia": 51,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "David Harris",
+    "Usia": 47,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Noah Robinson",
+    "Usia": 40,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Sophia Clark",
+    "Usia": 53,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Benjamin Scott",
+    "Usia": 60,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Ava Baker",
+    "Usia": 58,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "William Carter",
+    "Usia": 57,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Madeline Garcia",
+    "Usia": 62,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Jackson Young",
+    "Usia": 45,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Mason Martinez",
+    "Usia": 64,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Ava Phillips",
+    "Usia": 59,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Landon Brown",
+    "Usia": 55,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Charlotte Wilson",
+    "Usia": 62,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Elijah Perez",
+    "Usia": 40,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Lucas Harris",
+    "Usia": 57,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Ethan Wright",
+    "Usia": 61,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Lily Anderson",
+    "Usia": 47,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Amelia Young",
+    "Usia": 52,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Mia Hall",
+    "Usia": 60,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Levi Martinez",
+    "Usia": 54,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Madeline Davis",
+    "Usia": 61,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Aiden White",
+    "Usia": 58,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Maxwell Roberts",
+    "Usia": 59,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Isabella Rodriguez",
+    "Usia": 46,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Jackie Green",
+    "Usia": 62,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Landon Allen",
+    "Usia": 64,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Zoe Scott",
+    "Usia": 61,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Ella Turner",
+    "Usia": 56,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "John Hall",
+    "Usia": 55,
+    "Penyakit": "Diabetes"
+  },
+  {
+    "Nama": "Dylan Baker",
+    "Usia": 43,
+    "Penyakit": "Liver"
+  },
+  {
+    "Nama": "Megan Green",
+    "Usia": 59,
+    "Penyakit": "Liver"
+  },
+  {
+    "Nama": "Liam Evans",
+    "Usia": 64,
+    "Penyakit": "Liver"
+  },
+  {
+    "Nama": "Charlotte White",
+    "Usia": 61,
+    "Penyakit": "Liver"
+  },
+  {
+    "Nama": "Madison Johnson",
+    "Usia": 56,
+    "Penyakit": "Liver"
+  },
+  {
+    "Nama": "Ethan Clark",
+    "Usia": 63,
+    "Penyakit": "Liver"
+  },
+  {
+    "Nama": "Wyatt Scott",
+    "Usia": 57,
+    "Penyakit": "Liver"
+  },
+  {
+    "Nama": "Mason Wright",
+    "Usia": 68,
+    "Penyakit": "Liver"
+  },
+  {
+    "Nama": "Lila Roberts",
+    "Usia": 69,
+    "Penyakit": "Liver"
+  },
+  {
+    "Nama": "Henry Smith",
+    "Usia": 55,
+    "Penyakit": "Liver"
+  },
+  {
+    "Nama": "Sophia Perez",
+    "Usia": 61,
+    "Penyakit": "Liver"
+  },
+  {
+    "Nama": "Grayson Johnson",
+    "Usia": 53,
+    "Penyakit": "Liver"
+  },
+  {
+    "Nama": "Jackie Morris",
+    "Usia": 55,
+    "Penyakit": "Liver"
+  },
+  {
+    "Nama": "Lucas Turner",
+    "Usia": 49,
+    "Penyakit": "Liver"
+  },
+  {
+    "Nama": "Henry Davis",
+    "Usia": 59,
+    "Penyakit": "Liver"
+  },
+  {
+    "Nama": "Jack Scott",
+    "Usia": 50,
+    "Penyakit": "Liver"
+  },
+  {
+    "Nama": "Grace Lee",
+    "Usia": 58,
+    "Penyakit": "Liver"
+  },
+  {
+    "Nama": "Aiden White",
+    "Usia": 57,
+    "Penyakit": "Liver"
+  }
+]
